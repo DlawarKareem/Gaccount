@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.50.24668.0%0D%0A%0D%0A00:00:00.288%20--%3E%2000:00:04.768%0D%0AGoogle%20Contacts%20is%20Google\u0027s%20contact%20management%20tool.%20%20%0D%0A%0D%0A%0D%0A"}')

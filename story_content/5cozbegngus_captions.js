@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.50.24668.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:02.464%0D%0AGoogle%20Sheets%20is%20a%20spreadsheet%20%0D%0A%0D%0A00:00:02.592%20--%3E%2000:00:05.126%0D%0Aprogram%20like%20Microsoft%20Excel%20%0D%0A%0D%0A"}')
